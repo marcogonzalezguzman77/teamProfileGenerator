@@ -1,0 +1,15 @@
+ul {
+    margin:0 !important;
+    padding:0 !important;
+}
+
+li{
+    list-style: none;
+    background-color:white;
+    /*border: solid black;*/
+    margin:1px;
+}
+
+.row {
+    justify-content: center !important;
+}
